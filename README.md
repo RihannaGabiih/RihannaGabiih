@@ -1,5 +1,5 @@
 Olá, meu nome é Rihanna, sou estudante do curso Técnico de Desenvolvimento de Sistemas no Senai Suiço-Brasileira.
-![](./profile-3d-contrib/profile-gitblock.svg)
+
 
 
 <!--
